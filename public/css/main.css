@@ -10,12 +10,13 @@
 body {
     height: 100vh;
     color: white;
+    background: #ebf2f5
 }
 
 body,
 input,
 button,
-te0x1tarea {
+textarea {
     /*font-weight:  400;
     font-size: 18px;
     line-height: 1;
